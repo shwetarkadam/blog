@@ -25,7 +25,7 @@ minimal_mistakes_skin: dark
 search: true
 url: https://shwetarkadam.github.io
 baseurl: /blog
-#permalink: date
+permalink: date
 
 # Build settings
 markdown: kramdown
