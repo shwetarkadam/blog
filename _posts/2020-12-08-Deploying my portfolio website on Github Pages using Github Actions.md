@@ -1,5 +1,5 @@
 ---
-title: "Deploying my portfolio website on Github Pages using Github Actions."
+title: "Deploying my portfolio website for free on Github Pages using Github Actions."
 date: 2020-12-08T15:34:30-04:00
 categories:
   - Hosting
