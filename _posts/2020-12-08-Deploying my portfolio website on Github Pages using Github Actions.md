@@ -11,7 +11,7 @@ published: true
 comments: true
 author_profile: true
 header:
-  teaser: "/assets/images/"
+  teaser: "/assets/images/portfolio-githubactions.PNG"
 ---
 
 I deployed my [portfolio site][Click Here] and wanted to try out github actions and this is my experience of automating the deployment.
