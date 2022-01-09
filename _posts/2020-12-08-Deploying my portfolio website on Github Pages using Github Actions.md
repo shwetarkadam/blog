@@ -47,6 +47,7 @@ Once you have a site ready for GitHub Pages, and your project includes the ```.g
 
 ![githubactions-build]({{ site.url }}{{ site.baseurl }}/assets/images/githubaction-build.PNG){:class="img-responsive"}
 
+
 ![githubactions-build2]({{ site.url }}{{ site.baseurl }}/assets/images/githubaction-build2.PNG){:class="img-responsive"}
 
 After the GitHub Actions have run, ensure settings are pointing to the correct branch to display your site.
