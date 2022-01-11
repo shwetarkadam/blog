@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Shweta Kadam"
   avatar : "/assets/images/bio-dp.PNG"
-  bio    : "Software Engineer." 
+  bio    : "Software Engineer.<br/> Thoughts, experiences & ideas" 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
