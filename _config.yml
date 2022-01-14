@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: shwetarkadam
 minimal_mistakes_skin: dark
 search: true
-url: https://shwetarkadam.github.io
+url: www.codeklutz.com
 baseurl: /
 permalink: date
 
@@ -65,7 +65,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://shwetarkadam.github.io/blog"
+      url: "www.codeklutz.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
