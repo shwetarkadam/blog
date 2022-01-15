@@ -22,7 +22,7 @@ github_username: shwetarkadam
 minimal_mistakes_skin: dark
 search: true
 url: www.codeklutz.com
-baseurl: 
+baseurl: /blog
 permalink: date
 
 # Build settings
