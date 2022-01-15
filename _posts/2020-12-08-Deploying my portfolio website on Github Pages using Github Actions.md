@@ -45,15 +45,15 @@ If you have any existing site or code and you want to publish it to get pages yo
 You could go to your github repo Actions Tab =>Create Simple Workflow and copy paste the above content in your yaml file.
 Once you have a site ready for GitHub Pages, and your project includes the ```.github/workflows/deploy.yml``` file, you only need to commit and push your changes to the main branch of your repository. You can the ongoing workflow by going to Actions=>build and deploy.Also this is the place where you can debug what went wrong in case your workflow fails.
 
-![githubaction-build]({{ site.url }}{{ site.baseurl }}/assets/images/githubaction-build.PNG){:class="img-responsive"}
+![githubaction-build](/assets/images/githubaction-build.PNG){:class="img-responsive"}
 
 
-![githubaction-build2]({{ site.url }}{{ site.baseurl }}/assets/images/githubaction-build2.PNG){:class="img-responsive"}
+![githubaction-build2](/assets/images/githubaction-build2.PNG){:class="img-responsive"}
 
 After the GitHub Actions have run, ensure settings are pointing to the correct branch to display your site.
 Go to the settings of your repository and ensure that the source for GitHub Pages is using the correct branch. It is close to the bottom of the main settings page.
 
-![gh-pages]({{ site.url }}{{ site.baseurl }}/assets/images/gh-pages.PNG){:class="img-responsive"}
+![gh-pages](/assets/images/gh-pages.PNG){:class="img-responsive"}
 
 It does take some time at the start to load in the browser but once available you can click on the link in the green bar above.
 Now every time you make a push to the main branch ,the changes are reflected in the main site.
