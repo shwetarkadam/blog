@@ -32,7 +32,7 @@ run npm start
 ```
 so you should get your output in localhost something like this
 
-![portfolio-githubactions]({{ site.url }}{{ site.baseurl }}/assets/images/portfolio-githubactions.PNG){:class="img-responsive"}
+![portfolio-githubactions](/assets/images/portfolio-githubactions.PNG){:class="img-responsive"}
 
 Now that you have ensured that the project runs properly in your local machine,it is ready to be deployed to GitHub pages. You will only need to commit and push your changes to the main branch of a repo and ensure that the settings are pointing to the correct branch to display a site for that.
 Now the file that does this is that deploy.yml file which we will use to create the workflow.
