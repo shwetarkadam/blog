@@ -17,8 +17,13 @@ header:
   teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
 ---
 
+
 ![polymorphism](/assets/images/Screenshot_20220118-232720__01__01.jpg)
 
+<audio controls>
+  <source src="/assets/audio/polymorphism.mp3" type="audio/mp3">
+</audio>
+ 
 
 Just revisiting and explaining myself Polymorphism concept here through a blog post. The words Polymorphism means multiple forms. 
 

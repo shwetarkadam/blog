@@ -17,7 +17,10 @@ author_profile: true
   #teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
 ---
 
-
+<audio controls>
+  <source src="/assets/audio/constructors.mp3" type="audio/mp3">
+</audio>
+ 
 Constructors are used every time to initialize instance variables. There are some additional rules associated with constructors that are often asked in interviews.Hence revising those here through a blog post.
 
 #### 1.A constructor is used to initialize instance variables.

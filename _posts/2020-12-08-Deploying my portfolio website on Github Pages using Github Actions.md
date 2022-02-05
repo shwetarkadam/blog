@@ -17,6 +17,11 @@ header:
   teaser: "/assets/images/portfolio-githubactions.PNG"
 ---
 
+
+<audio controls>
+  <source src="/assets/audio/githubActionPortfolio.mp3" type="audio/mp3">
+</audio>
+ 
 I deployed my [portfolio site][Click Here] and wanted to try out github actions and this is my experience of automating the deployment.
 This article is more focused on how you can use the GitHub actions and how easy it is to deploy your code to GitHub pages rather than the portfolio site code.So every time you make an update or build to your website ,the changes are automatically reflected and this automated deploying process makes work much faster.
 

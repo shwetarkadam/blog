@@ -16,7 +16,6 @@ header:
   teaser: "/assets/images/swaggerui.PNG"
 ---
 
-
 These days I am more into creating backend projects which include microservices.But if anyone wants to test these services one needs postman or do the old classic way of curl command. 
 
 Both do the job brilliantly but what if I wanted some user who doesn't want to install postman or use curl and still wants to test my live APIs thru the browser? I came across this ***swagger open API specification*** and this is a really handy tool!
