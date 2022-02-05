@@ -32,10 +32,13 @@ author_profile: true
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
 ---
 
+<<<<<<< HEAD
 <audio controls>
   <source src="/assets/images/springbootcronEventsMysql.mp3" type="audio/mp3">
 </audio>
  
+=======
+>>>>>>> 4cb690501da2525924e72d6cfa1e2d66d3522d38
 
 I was recently studying about using cron jobs in spring boot for a particular use case for my small side project. I ended up not using the cron job but rather went the SQL way(will explain this in detail below). However,in the process I learnt a lot about cron jobs and scheduling in spring boot so this is just a small article about my learnings.
 
