@@ -35,6 +35,7 @@ header:
   teaser: "/assets/images/zsh.PNG"
 ---
 
+ 
 I'm a Linux user and just love the control Linux gives me over files navigation, editing, development using terminal and zsh . But recently due to unforeseen updates, my bios was messed up big time which has led me unable to install Linux for the time being. But the work and learning never stops and nor shall I ! ☺ 
 I don't hate windows but it's definitely not my first choice for development and coding after discovering Linux.🤭
 
