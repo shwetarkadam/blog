@@ -1,6 +1,6 @@
 ---
 title: "Looking back at January"
-date: 2022-16-02T15:34:30-04:00
+date: 2022-02-16T15:34:30-04:00
 categories:
   - Learning
   - Retrospective
