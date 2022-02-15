@@ -1,5 +1,5 @@
 ---
-title: "Looking back at January"
+title: "Looking back at January📓"
 date: 2022-02-01T15:34:30-04:00
 categories:
   - Learning
@@ -28,10 +28,6 @@ author_profile: true
 #header:
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
 ---
-
-
-# Looking back at January📓!
-
 I tried a lot of things in January not necessarily everything learnt was used and and not every side project which I worked on got live.
 
 However I learnt many lessons from my own failures and gained more insights when I started some initiatives. 
