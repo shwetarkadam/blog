@@ -30,6 +30,9 @@ comments: true
 author_profile: true
 #header:
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 <audio controls>

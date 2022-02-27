@@ -14,6 +14,9 @@ comments: true
 author_profile: true
 header:
   teaser: "/assets/images/swaggerui.PNG"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"  
 ---
 
 These days I am more into creating backend projects which include microservices.But if anyone wants to test these services one needs postman or do the old classic way of curl command. 

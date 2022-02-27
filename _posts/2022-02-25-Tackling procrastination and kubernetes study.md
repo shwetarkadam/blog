@@ -1,7 +1,6 @@
 ---
-layout: home
 title: "Tackling procrastination and kubernetes study"
-date: 2022-02-27T15:34:30-04:00
+date: 2022-02-25T15:34:30-04:00
 categories:
   - Kuberenetes
   - Learning
@@ -23,11 +22,15 @@ tags:
  - architecture
  - overview
  - notes
+ - basics
 published: true
 comments: true
 author_profile: true
 #header:
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 After a long series of procrastination and getting the hit of motivation from reading Atomic Habits(great book which I recommend others) ,I'm finally learning kubernetes basics.As a motivator to get better at writing and publish more posts as well as learn kubernetes.I have decided to publish 1 article every Sunday.I would like to post 2 posts per week but I want to start small and consistent.
