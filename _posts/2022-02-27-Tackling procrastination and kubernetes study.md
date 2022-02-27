@@ -17,12 +17,11 @@ tags:
  - kubeapiserver
  - development
  - controller
- - domain
- - note
+ - scheduler
  - blog
  - architecture
  - overview
- - Java
+ - notes
 published: true
 comments: true
 author_profile: true
