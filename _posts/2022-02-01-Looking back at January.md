@@ -1,5 +1,5 @@
 ---
-title: "Tech Recap Journal- January📓"
+title: "Tech Recap test Journal- January📓"
 date: 2022-02-01T15:34:30-04:00
 categories:
   - Learning
