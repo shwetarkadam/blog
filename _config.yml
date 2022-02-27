@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Thoughts,ideas & awkward ramblings by Shweta Kadam Software Engineer
 #twitter_username: username
 github_username: shwetarkadam
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 search: true
 #url: www.codeklutz.com
 #baseurl: /
