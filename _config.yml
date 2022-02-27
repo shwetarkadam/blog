@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Thoughts,ideas & awkward ramblings by Shweta Kadam Software Engineer
 #twitter_username: username
 github_username: shwetarkadam
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "dark"
 search: true
 #url: www.codeklutz.com
 #baseurl: /
@@ -29,9 +29,10 @@ permalink: date
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
+layout: home
 permalink: /:categories/:title/
-paginate: 7 # amount of posts to show
-paginate_path: /page:num/
+paginate: 15   # amount of posts to show
+paginate_path: posts/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
