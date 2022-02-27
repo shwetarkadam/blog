@@ -29,7 +29,6 @@ author_profile: true
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
 ---
 
-
 After a long series of procrastination and getting the hit of motivation from reading Atomic Habits(great book which I recommend others) ,I'm finally learning kubernetes basics.As a motivator to get better at writing and publish more posts as well as learn kubernetes.I have decided to publish 1 article every Sunday.I would like to post 2 posts per week but I want to start small and consistent.
 Once again I'm treating my blog as a journal to showcase how much I actually understand kubernetes.Also its quite handy to have my own notes on a site. So here is a blog post on kubernetes basics part 1.This will be a multi part series.
 
