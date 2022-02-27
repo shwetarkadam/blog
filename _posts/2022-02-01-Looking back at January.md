@@ -28,7 +28,7 @@ author_profile: true
 #header:
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 I tried a lot of things in January not necessarily everything learnt was used and and not every side project which I worked on got live.

@@ -33,6 +33,9 @@ comments: true
 author_profile: true
 header:
   teaser: "/assets/images/zsh.PNG"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
  
