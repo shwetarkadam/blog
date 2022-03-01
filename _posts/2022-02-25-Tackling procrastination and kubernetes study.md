@@ -35,6 +35,11 @@ toc_icon: "cog"
 
 After a long series of procrastination and getting the hit of motivation from reading Atomic Habits(great book which I recommend others) ,I'm finally learning kubernetes basics.As a motivator to get better at writing and publish more posts as well as learn kubernetes.I have decided to publish 1 article every Sunday.I would like to post 2 posts per week but I want to start small and consistent.
 Once again I'm treating my blog as a journal to showcase how much I actually understand kubernetes.Also its quite handy to have my own notes on a site. So here is a blog post on kubernetes basics part 1.This will be a multi part series.
+Before we begin some pre requisites which one needs to know :-
+## Pre requisite
+
+You should be already familiar and comfortable with the concept of containers and container run-time such as docker as kubernetes is for managing different containers and their deployment at a large scale.Another point which is not mandatory but good to know would be basic docker commands like docker run etc.
+
 
 ## What is kubernetes?
 Kubernetes is an open-source technology that is used for container orchestration.
