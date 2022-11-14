@@ -12,7 +12,6 @@ tags:
 published: true
 comments: true
 author_profile: true
-toc: false
 
 ---
 
