@@ -1,5 +1,5 @@
 ---
-title:  "Today I Learnt(TIL):Database Version Control "
+title:"Today I Learnt(TIL):Database Version Control"
 date: 2022-14-11T15:34:30-04:00
 categories:
   - Database Version Control
