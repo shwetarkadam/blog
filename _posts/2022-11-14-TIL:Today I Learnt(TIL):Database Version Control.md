@@ -1,12 +1,12 @@
 ---
-title:"Today I Learnt(TIL):Database Version Control"
+title: "Today I learnt (TIL): Database Version Control"
 date: 2022-11-14T15:34:30-04:00
 categories:
   - Database Version Control
-  - Liquibase
-  - Flyway
+  - Database Schema Changes
 tags:
-   - Database Version Control
+  - Database Version Control
+  - Database Schema Changes
   - Liquibase
   - Flyway
 published: true
