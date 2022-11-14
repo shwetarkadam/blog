@@ -17,6 +17,7 @@ author_profile: true
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+
 ---
 
 Upon stumbling upon this motivating HN post by [Simon Willison](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) I have been inspired to start a Today I learnt(TIL) series of my own. This seems like a doable promising idea where I do not have the self-imposed pressure of researching for a blog idea and making a seperate time to write that specific post. Wrting this TIL flows naturally in day-to-day work flow where I could just say "Hey I just learnt about this XYZ ,I should write about it".
