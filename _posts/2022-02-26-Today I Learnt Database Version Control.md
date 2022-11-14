@@ -1,6 +1,6 @@
 ---
 title: "Today I learnt Database Version Control"
-date: 2022-02-26T15:34:30-04:00
+date: 2022-11-14T15:34:30-04:00
 categories:
   - Database Version Control
   - Database Schema Changes
@@ -14,17 +14,16 @@ comments: true
 author_profile: true
 #header:
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
-toc: true
+toc: false
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-Upon stumbling upon this motivating HN post by ![Simon Willison](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) I have been inspired to start a Today I learnt(TIL) series of my own. This seems like a doable promising idea where I do not have the self-imposed pressure of researching for a blog idea and making a seperate time to write that specific post. Wrting this TIL flows naturally in day-to-day work flow where I could just say "Hey I just learnt about this XYZ ,I should write about it".
+Upon stumbling upon this motivating HN post by [Simon Willison](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) I have been inspired to start a Today I learnt(TIL) series of my own. This seems like a doable promising idea where I do not have the self-imposed pressure of researching for a blog idea and making a seperate time to write that specific post. Wrting this TIL flows naturally in day-to-day work flow where I could just say "Hey I just learnt about this XYZ ,I should write about it".
 
-Starting with Today's TIL :Database Version Control 
+Starting with Today's TIL : **Database Version Control**
 
 What it is : A practice or form of maintining and tracking every change made to  database schema, just like git version control(But this is specifically for Database). It acts like a single source of truth (like a git code repository)
-
 
 This concept solves a lot of problems we face as developers such as : 
 
@@ -40,8 +39,8 @@ This is where database version control comes in handy where :
 
 
 Applications such as liquidbase,flyway scripts come in handy 
-Speaking of ![liquibase](https://docs.liquibase.com/concepts/introduction-to-liquibase.html) which works on ![changelog concept](https://keepachangelog.com/en/1.0.0/) where you have 
-- A **Changelog file**  which inside has -> **ChangeSet** (which are used to define Db changes)- > Which can include SQL Queries and Rollback queries if the changes dont work in that specific environment. 
+Speaking of [liquibase](https://docs.liquibase.com/concepts/introduction-to-liquibase.html) which works on [changelog concept](https://keepachangelog.com/en/1.0.0/) where you have 
+>  A **Changelog file**  which inside has -> **ChangeSet** (which are used to define Db changes)- > Which can include SQL Queries and Rollback queries if the changes dont work in that specific environment. 
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>	
