@@ -1,6 +1,6 @@
 ---
 title: "Today I learnt Database Version Control"
-date: 2022-11-14T15:34:30-04:00
+date: 2022-02-25T15:34:30-04:00
 categories:
   - Database Version Control
   - Database Schema Changes
@@ -12,8 +12,6 @@ tags:
 published: true
 comments: true
 author_profile: true
-#header:
- # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
