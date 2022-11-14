@@ -13,8 +13,6 @@ published: true
 comments: true
 author_profile: true
 toc: false
-toc_label: "Table of Contents"
-toc_icon: "cog"
 
 ---
 
