@@ -1,6 +1,6 @@
 ---
 title:"Today I Learnt(TIL):Database Version Control"
-date: 2022-14-11T15:34:30-04:00
+date: 2022-11-14T15:34:30-04:00
 categories:
   - Database Version Control
   - Liquibase
@@ -22,7 +22,6 @@ What it is : A practice or form of maintining and tracking every change made to 
 
 
 This concept solves a lot of problems we face as developers such as : 
-
 
 As a developer,One must have faced a situation  where to solve a particular problem statement or feature , you need to do database changes,however for those changes to reflect application needs to be restarted or you might have database and application code changes, an organization already has some processes defined for deployment. In development phase, one usually runs the db changes or sql queries in local generally via a sql client application.For example,Update some existing db property. 
 
