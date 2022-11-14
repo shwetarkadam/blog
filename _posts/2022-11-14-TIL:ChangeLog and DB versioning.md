@@ -1,25 +1,20 @@
 ---
 title:  "Today I Learnt(TIL):Database Version Control "
-date: 2022-01-16T15:34:30-04:00
+date: 2022-14-11T15:34:30-04:00
 categories:
-  - API specification
-  - REST API
+  - Database Version Control
+  - Liquibase
+  - Flyway
 tags:
-  - Swagger OPENAPI
-  - API documentation
-  - spring boot
-  - REST API
+   - Database Version Control
+  - Liquibase
+  - Flyway
 published: true
 comments: true
 author_profile: true
-header:
-  teaser: "/assets/images/swaggerui.PNG"
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"  
 ---
 
-Upon stumbling upon this motivating HN post by ![Simon Willison] (https://simonwillison.net/2022/Nov/6/what-to-blog-about/) I have been inspired to start a Today I learnt(TIL) series of my own. This seems like a doable promising idea where I do not have the self-imposed pressure of researching for a blog idea and making a seperate time to write that specific post. Wrting this TIL flows naturally in day-to-day work flow where I could just say "Hey I just learnt about this XYZ ,I should write about it".
+Upon stumbling upon this motivating HN post by ![Simon Willison](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) I have been inspired to start a Today I learnt(TIL) series of my own. This seems like a doable promising idea where I do not have the self-imposed pressure of researching for a blog idea and making a seperate time to write that specific post. Wrting this TIL flows naturally in day-to-day work flow where I could just say "Hey I just learnt about this XYZ ,I should write about it".
 
 Starting with Today's TIL :Database Version Control 
 
@@ -31,7 +26,7 @@ This concept solves a lot of problems we face as developers such as :
 
 As a developer,One must have faced a situation  where to solve a particular problem statement or feature , you need to do database changes,however for those changes to reflect application needs to be restarted or you might have database and application code changes, an organization already has some processes defined for deployment. In development phase, one usually runs the db changes or sql queries in local generally via a sql client application.For example,Update some existing db property. 
 
-But for that same change to be reflected in production db, CICD processes are defined for deployment or a seperate team might be responsible for deployment altogether.Hence we cant expect a seperate db team to always be in sync with deployment team or that particular CICD process. Hence, DB schema changes should be deployed as a part of application code changes.
+But for that same change to be reflected in production db, CICD processes are define fdd for deployment or a seperate team might be responsible for deployment altogether.Hence we cant expect a seperate db team to always be in sync with deployment team or that particular CICD process. Hence, DB schema changes should be deployed as a part of application code changes.
 
 
 This is where database version control comes in handy where :
@@ -69,7 +64,7 @@ Speaking of ![liquibase](https://docs.liquibase.com/concepts/introduction-to-liq
         <rollback>
         DELETE FROM  Exampledb.exampletable where id="1";
         </rollback>
- 
+ </databaseChangeLog>
 
 ```
 
