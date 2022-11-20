@@ -81,7 +81,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #surl: "https://twitter.com/"
+      url: "https://twitter.com/ShwetaRKadam"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shwetarkadam"
