@@ -69,8 +69,8 @@ author:
       url: "/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://twitter.com/ShwetaRKadam"
+    - label: "GitHub"https:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shwetarkadam"
     - label: "LinkedIn"
