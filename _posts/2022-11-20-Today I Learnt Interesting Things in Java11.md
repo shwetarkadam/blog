@@ -19,7 +19,7 @@ author_profile: true
 ---
 
 I came across a fascinating Java talk on youtube by Devoxx 2022 Hanno Embregts. 
-This article is about many java snippets I encountered. The purpose of today's TIL is to have a list of interesting things we could do in Java and not deep dive into each concept.
+This article is about a few java snippets I encountered. The purpose of today's TIL is to have a list of interesting things we could do in Java and not deep dive into each concept.
 
 Today's TIL : **Crazy things to do with Java 11+**
 
