@@ -11,7 +11,7 @@ tags:
   - Arrays
   - Arrays.asList
   - var in java
-  - 
+  - blog
 published: true
 comments: true
 author_profile: true
