@@ -1,12 +1,12 @@
 ---
-title: "Today I learnt: Interesting Things I learnt in Java 11"
+title: "Today I learnt: Interesting Things in Java 11"
 date: 2022-11-20T15:34:30-04:00
 categories:
   - Java11
   - New Features
 tags:
-  - Database Version Control
-  - Database Schema Changes
+  - primitives
+  - java
   - Liquibase
   - Arrays
   - Arrays.asList
