@@ -116,6 +116,19 @@ tag_archive:
   type: liquid
   path: /tags/s
 
+repository: shwetarkadam/Blog 
+comments:
+
+ provider: "utterances"
+
+ utterances:
+
+ theme: "github-light" # "github-dark"
+
+ issue_term: "pathname"
+
+ label: "comment"
+
 analytics:
   provider: "google-gtag"
   google:
