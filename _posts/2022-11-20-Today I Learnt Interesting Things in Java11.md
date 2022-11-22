@@ -8,7 +8,10 @@ tags:
   - Database Version Control
   - Database Schema Changes
   - Liquibase
-  - Flyway
+  - Arrays
+  - Arrays.asList
+  - var in java
+  - 
 published: true
 comments: true
 author_profile: true
