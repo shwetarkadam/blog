@@ -1,6 +1,6 @@
 ---
 title: "Today I learnt:422 HTTP Error code"
-date: 2022-11-22T15:34:30-04:00
+date: 2022-11-21T15:34:30-04:00
 categories:
   - HTTP Error Codes
   - HTTP/1.1 422 Unprocessable Entity
