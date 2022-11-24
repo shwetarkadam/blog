@@ -14,9 +14,12 @@ tags:
   - blog
 published: true
 comments: true
+header:
+  teaser: "/assets/images/java-word-cloud.png"
 author_profile: true
 
 ---
+![Test out the code snippets!](/assets/images/java-word-cloud.png)
 
 I came across a fascinating Java talk on youtube by Devoxx 2022 Hanno Embregts. 
 This article is about a few java snippets I encountered. The purpose of today's TIL is to have a list of interesting things we could do in Java and not deep dive into each concept.
