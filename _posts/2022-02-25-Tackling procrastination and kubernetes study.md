@@ -25,6 +25,7 @@ tags:
  - basics
 published: true
 comments: true
+share: true
 author_profile: true
 #header:
  # teaser: "/assets/images/Screenshot_20220118-232720__01__01.jpg"
