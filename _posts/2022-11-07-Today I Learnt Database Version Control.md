@@ -12,6 +12,9 @@ tags:
 published: true
 comments: true
 author_profile: true
+header:
+  teaser: "/assets/images/Database-version-liquibase-alessiop.com.png"
+author_profile: true
 
 ---
 
